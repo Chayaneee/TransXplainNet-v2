@@ -16,6 +16,17 @@ We have used three datasets for this experiment.
   - [VinDr-CXR](https://vindr.ai/datasets/cxr)
   - Hospital-Dataset: It's private and confidential.
 
+# Qouantitative Results
+
+| **Models**                             | **B1**   | **B2**   | **B3**   | **B4**   | **METEOR** | **ROUGE-L** | **CIDER**    |
+|----------------------------------------|----------|----------|----------|----------|------------|-------------|--------------|
+| Trans. Prog. Nooralahzadeh et al., 2021             | 0.378    | 0.232    | 0.154    | 0.107    | 0.145      | 0.272       | --           |
+| PPKED Liu et al., 2021                         | 0.360    | 0.224    | 0.149    | 0.106    | 0.149      | 0.284       | --           |
+| Nguyen et al. 2021                  | **0.495**| **0.360**| **0.278**| **0.224**| **0.222**  | **0.390**   | --           |
+| XPRONET Wang et al. 2022                        | 0.344    | 0.215    | 0.146    | 0.105    | 0.138      | 0.279       | --           |
+| TransXplainNet 2023                | 0.376    | 0.255    | 0.187    | 0.145    | 0.161      | 0.310       | _0.219_      |
+| TransXplainNet+                        | _0.418_  | _0.290_  | _0.215_  | _0.168_  | _0.179_    | _0.330_     | **0.279**    |
+
 # Evaluation Metrics 
 1. Word Overlap Metrics: BLEU-score, METEOR, ROUGE-L, CIDER
 2. Clinical Efficiency (CE) Metrics: AUC, F1-score, Precision, Recall, Accuracy
