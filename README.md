@@ -33,7 +33,7 @@ We have used three datasets for this experiment.
 | Mondal et al. (TransXplainNet) 2023                | 0.376    | 0.255    | 0.187    | 0.145    | 0.161      | 0.310       | _0.219_      |
 | TransXplainNet+                        |$\underline{0.418}$ | $\underline{0.290}$ |$\underline{0.215}$ | $\underline{0.168}$ | $\underline{0.179}$  |$\underline{0.330}$ | **0.279**    |
 
-# Qualititative Results (CE Metrics)
+# Qualititative Results (CE and Semantic Similarity Metrics)
 
 | **Models**                             | **AUC**   | **F1S**  | **Precision** | **Recall**  | **Accuracy** | **ST**    | **AE**    | **VE**    | **GM**    |
 |----------------------------------------|-----------|----------|---------------|-------------|--------------|-----------|-----------|-----------|-----------|
@@ -43,3 +43,5 @@ We have used three datasets for this experiment.
 | CvT-212DistilGPT2 2022             | --        | 0.390    | 0.365         | 0.418       | --           | --        | --        | --        | --        |
 | TransXplainNet 2023                | 0.664     | 0.325    | 0.321         | 0.361       | 0.793        | $\underline{0.738}$ | $\underline{0.937}$   |$\underline{0.508}$    | $\underline{0.765}$  |
 | TransXplainNet+                        | $\underline{0.721}$ | $\underline{0.393}$ | **0.457**     | 0.395       | $\underline{0.829}$     | **0.744** | **0.945** | **0.533** | **0.781** |
+
+# Qualitative Results
