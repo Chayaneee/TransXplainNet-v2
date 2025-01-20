@@ -44,5 +44,8 @@ We have used three datasets for this experiment.
 | TransXplainNet 2023                | 0.664     | 0.325    | 0.321         | 0.361       | 0.793        | $\underline{0.738}$ | $\underline{0.937}$   |$\underline{0.508}$    | $\underline{0.765}$  |
 | TransXplainNet+                        | $\underline{0.721}$ | $\underline{0.393}$ | **0.457**     | 0.395       | $\underline{0.829}$     | **0.744** | **0.945** | **0.533** | **0.781** |
 
-# Qualitative Results
+# Qualitative Analysis
 <img width="868" alt="Image" src="https://github.com/user-attachments/assets/a29a4008-878a-4e31-85ed-32d62f346435" />
+
+# Qualitative Results
+
