@@ -47,5 +47,5 @@ We have used three datasets for this experiment.
 # Qualitative Analysis
 <img width="868" alt="Image" src="https://github.com/user-attachments/assets/a29a4008-878a-4e31-85ed-32d62f346435" />
 
-# Qualitative Results
-
+# Qualitative Results (Radiologist Viewpoint)
+![Image](https://github.com/user-attachments/assets/32909112-19a3-4074-b59f-f92d008d8f28)
