@@ -13,6 +13,8 @@ This is the official repository of our proposed TransXplainNet+ model details, w
 
 We have used three datasets for this experiment.
   - [MIMIC-CXR](https://physionet.org/content/mimiciii-demo/1.4/)
+  - [VinDr-CXR](https://vindr.ai/datasets/cxr)
+  - Hospital-Dataset: It's private and confidential.
 
 # Evaluation Metrics 
 1. Word Overlap Metrics: BLEU-score, METEOR, ROUGE-L, CIDER
