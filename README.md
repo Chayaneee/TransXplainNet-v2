@@ -45,3 +45,4 @@ We have used three datasets for this experiment.
 | TransXplainNet+                        | $\underline{0.721}$ | $\underline{0.393}$ | **0.457**     | 0.395       | $\underline{0.829}$     | **0.744** | **0.945** | **0.533** | **0.781** |
 
 # Qualitative Results
+<img width="868" alt="Image" src="https://github.com/user-attachments/assets/a29a4008-878a-4e31-85ed-32d62f346435" />
